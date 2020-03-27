@@ -1,0 +1,8 @@
+Dokumentowa baza danych przechowująca wartości preferencji dla zapisanych osób, 
+wyliczająca wartości dla nowo wprowadzonych osób na podstawie połączeń z innymi już obecnymi.
+
+W momencie wprowadzenia nowej osoby będą podawane/zaznaczane osoby obecne w bazie,
+które będą miały połączenie z nową osobą (połączenie - tzn. np: znajomość).
+
+Biorąc pod uwagę wartości ustalonych preferencji dla obecnych osób będą one przewidywane i automatycznie usupełniane dla osoby dodanej, 
+z późniejszą możliwością ręcznego ustawienia danej wartości dla każdego członka bazy.
